@@ -23,7 +23,7 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql%20Cordova&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon-232F3E?style=flat-square&logo=Amazon&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/>
 </p>
