@@ -32,9 +32,10 @@
   
 <br/>
 
-![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jang-jaewon&show_icons=true&theme=radical)
+![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jang-jaewon&show_icons=true&theme=aura)
 <br/>  
-[![Jaewon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-Jaewon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Jang-Jaewon)
+[![Jaewon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-Jaewon&layout=compact&theme=aura)](https://github.com/Jang-Jaewon)
 
+  
 </div>
 
