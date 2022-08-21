@@ -1,9 +1,6 @@
 <div align="center">
 
-### I'm Backend Developer,, Jang Jaewon.
-### Good luck with you! 👋
-
-<br/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=a277fe&height=250&section=header&text=Jaewon%20Jang&fontColor=cad1d9&fontSize=80&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 <p>
   <a href="https://velog.io/@jewon119/" target="_blank"><img src="https://img.shields.io/badge/Blog-007474?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
@@ -15,9 +12,6 @@
 
 </div>
 
-<br/>
-
-------------------
 <br/>
 
 
@@ -39,7 +33,7 @@
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
 </p>
 
-<br/>
+
 
 ###  🤝 Cowork Tool
 <p>
@@ -57,11 +51,19 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> 
 </p>
 
-<br/>
-<br/>
-
-![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jang-jaewon&show_icons=true&theme=aura)
-<br/>  
-[![Jaewon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-Jaewon&layout=compact&theme=aura)](https://github.com/Jang-Jaewon)
-
 </div>
+
+<br/>
+
+<h3 align="center">💡 Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/Jang-Jaewon">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-Jaewon&layout=compact&show_icons=true&show_owner=false&hide_title=true&theme=aura&hide=Jupyter%20Notebook" />
+  </a>
+</p>
+<h3 align="center">💡 My Git Stats 💡</h3>
+<p align="center">
+  <a href="https://github.com/Jang-Jaewon">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jang-Jaewon&hide_title=true&show_icons=true&include_all_commits=true&theme=aura" />
+  </a>
+</p>
