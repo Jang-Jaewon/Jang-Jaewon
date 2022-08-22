@@ -59,7 +59,7 @@
 
 
 <h3 align="center">💡 Most Used and Git Stats 💡</h3>
-<p>
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jang-Jaewon&layout=compact&show_icons=true&show_owner=false&hide_title=true&theme=aura&hide=Jupyter%20Notebook">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-Jaewon&layout=compact&hide_title=true&show_icons=true&include_all_commits=true&theme=aura">
 </p>
