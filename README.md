@@ -13,6 +13,7 @@
 </div>
 
 <br/>
+<br/>
 
 
 <div align="center">
@@ -54,16 +55,11 @@
 </div>
 
 <br/>
+<br/>
 
-<h3 align="center">💡 Most Used Languages 💡</h3>
+
+<h3 align="center">💡 Most Used and Git Stats 💡</h3>
 <p align="center">
-  <a href="https://github.com/Jang-Jaewon">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-Jaewon&layout=compact&show_icons=true&show_owner=false&hide_title=true&theme=aura&hide=Jupyter%20Notebook" />
-  </a>
-</p>
-<h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
-  <a href="https://github.com/Jang-Jaewon">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jang-Jaewon&hide_title=true&show_icons=true&include_all_commits=true&theme=aura" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jang-Jaewon&layout=compact&show_icons=true&show_owner=false&hide_title=true&theme=aura&hide=Jupyter%20Notebook">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-Jaewon&layout=compact&hide_title=true&show_icons=true&include_all_commits=true&theme=aura">
 </p>
