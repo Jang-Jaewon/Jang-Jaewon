@@ -63,10 +63,6 @@
     <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Jang-Jaewon&theme=dark">
   </a>
 </p>
-
-
-<h3 align="center">💡 Most Used</h3>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jang-Jaewon&layout=compact&show_icons=true&show_owner=false&hide_title=true&theme=dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-Jaewon&layout=compact&hide_title=true&show_icons=true&include_all_commits=true&theme=dark&hide=jupyter%20notebook">
 </p>
