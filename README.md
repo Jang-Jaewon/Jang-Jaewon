@@ -1,6 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=a277fe&height=250&section=header&text=Jaewon%20Jang&fontColor=cad1d9&fontSize=80&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,6,12,15,20&height=220&section=header&text=Jaewon%20Jang&fontSize=70&fontAlignY=35)
+
 
 <p>
   <a href="https://velog.io/@jewon119/" target="_blank"><img src="https://img.shields.io/badge/Blog-007474?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
