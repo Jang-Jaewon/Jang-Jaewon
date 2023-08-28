@@ -13,8 +13,8 @@
 
 </div>
 
-<br>
 
+<br>
 
 <div align="center">
 
@@ -55,15 +55,14 @@
 
 </div>
 
-<br/>
-<br/>
+<br>
 
 <h3 align="center">⏰ Keep Going</h3>
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/streak-stats">
     <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Jang-Jaewon&theme=dark">
   </a>
-</p>
+</p> -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jang-Jaewon&layout=compact&show_icons=true&show_owner=false&hide_title=true&theme=dark">
 </p>
